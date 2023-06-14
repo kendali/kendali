@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm kendali</h1>
+<h1 align="center">Hi 👋, I'm Bouchaib Kendali</h1>
 <h3 align="center">A passionate Full Stack developer from Morocco</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kendali&label=Profile%20views&color=0e75b6&style=flat" alt="kendali" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kendali" alt="kendali" /></a> </p>
 
@@ -30,5 +28,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kendali"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kendali" /></a><a href="https://ko-fi.com/kendali"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kendali" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendali&show_icons=true&locale=en&layout=compact" alt="kendali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kendali&show_icons=true&locale=en" alt="kendali" /></p>
 
