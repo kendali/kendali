@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2022/07/08/05/38/freelance-work-7308505_960_720.png" />
+<img src="https://cdn.pixabay.com/photo/2022/07/08/05/38/freelance-work-7308505_960_720.png" width="200px" />
 <h1 align="center">Hi 👋, I'm Bouchaib Kendali</h1>
 <h3 align="center">A passionate Full Stack developer from Morocco</h3>
 
