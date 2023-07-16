@@ -45,21 +45,4 @@
 <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT2VCnBLIDzdAyjz3I8dfiRleq4A3h9fkH3UEMjhnv&s">
 
 
-<div align="center">
 
-<br />
-<br />
-<br />
-
-<span style="display:block;text-align:center">![giphy](https://user-images.githubusercontent.com/42722816/90063621-f38fce00-dce9-11ea-8d23-ee752e0a5b2e.gif)</span>
-<br />
-
-<span style="display:block;text-align:center">
-
-![github stats](https://github-readme-stats.vercel.app/api?username=abdallahabusedo&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahabusedo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</span>
-
-  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
-</div>
