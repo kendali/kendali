@@ -43,8 +43,8 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT2VCnBLIDzdAyjz3I8dfiRleq4A3h9fkH3UEMjhnv&s">
-<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png">
-<img align="left" width="50px" src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png">
+<img align="left" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png">
+<img align="left" width="80px" src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png">
 
 
 
