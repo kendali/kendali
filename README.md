@@ -1,5 +1,8 @@
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kendali&&style=flat-square" align="center" />
+</div>  
+<br/>
 
 ### <div align="center">I'm Kendali Bouchaib , a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 👌</div>  
   
@@ -114,9 +117,6 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kendali&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
