@@ -4,6 +4,8 @@
 </div>  
 <br/>
 
+
+
 ### <div align="center">I'm Kendali Bouchaib , a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 👌</div>  
   
 
@@ -111,18 +113,4 @@
 
   
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
 
