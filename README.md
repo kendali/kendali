@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
   
 
 ### <div align="center">I'm Kendali Bouchaib , a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 👌</div>  
@@ -108,7 +106,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
@@ -128,4 +125,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
